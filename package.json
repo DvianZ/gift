@@ -1,0 +1,15 @@
+{
+  "name": "bd-3d-gallery",
+  "version": "1.0.0",
+  "description": "3D photo gallery with dynamic Google Drive photo loading",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.16.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
